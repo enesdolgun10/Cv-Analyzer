@@ -35,7 +35,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone [https://github.com/enesdolgun33/ai-cv-analyzer.git](https://github.com/enesdolgun33/ai-cv-analyzer.git)
+git clone https://github.com/enesdolgun10/ai-cv-analyzer.git
 cd ai-cv-analyzer
 2. Bağımlılıkları Yükleyin
 
