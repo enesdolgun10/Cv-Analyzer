@@ -81,6 +81,4 @@ Dalınızı Push'layın (git push origin feature/YeniOzellik).
 
 Bir Pull Request oluşturun.
 
-📝 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
-```
+
