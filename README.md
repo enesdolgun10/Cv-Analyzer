@@ -81,4 +81,10 @@ Dalınızı Push'layın (git push origin feature/YeniOzellik).
 
 Bir Pull Request oluşturun.
 
+---
+
+### 👨‍💻 Geliştirici
+
+- **Enes Dolgun** - [LinkedIn Hesabım](https://www.linkedin.com/in/enesdolgun10/)
+
 
